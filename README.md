@@ -9,6 +9,7 @@ URL:
 
 Parameter "id" (GET), exists SQL injection vulnerability
 
+Link:https://www.sourcecodester.com/php/16061/sales-tracker-management-system-using-php-free-source-code.html
 
 
 There are two SQL injection vulnerabilities in the Sales Tracker Management System. 
